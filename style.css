@@ -1,0 +1,10 @@
+body{
+  font-family: sans-serif;
+  margin: 30px;
+  background:#111;
+  color:#fff;
+}
+h1,h2{color:#7dd3fc;}
+img{max-width:300px;border-radius:8px;}
+ul{list-style:none;padding:0;}
+li{background:#222;padding:6px 10px;margin:4px 0;border-radius:6px;}
